@@ -4,4 +4,4 @@ node_modules
 *.log
 .next/
 .build/
-variables.env
+*.env
